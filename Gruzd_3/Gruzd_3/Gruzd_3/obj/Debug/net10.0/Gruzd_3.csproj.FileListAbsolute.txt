@@ -1,0 +1,14 @@
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\bin\Debug\net10.0\Gruzd_3.exe
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\bin\Debug\net10.0\Gruzd_3.deps.json
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\bin\Debug\net10.0\Gruzd_3.runtimeconfig.json
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\bin\Debug\net10.0\Gruzd_3.dll
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\bin\Debug\net10.0\Gruzd_3.pdb
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\obj\Debug\net10.0\Gruzd_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\obj\Debug\net10.0\Gruzd_3.AssemblyInfoInputs.cache
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\obj\Debug\net10.0\Gruzd_3.AssemblyInfo.cs
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\obj\Debug\net10.0\Gruzd_3.csproj.CoreCompileInputs.cache
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\obj\Debug\net10.0\Gruzd_3.dll
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\obj\Debug\net10.0\refint\Gruzd_3.dll
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\obj\Debug\net10.0\Gruzd_3.pdb
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\obj\Debug\net10.0\Gruzd_3.genruntimeconfig.cache
+E:\1 второй\Практика\3\Gruzd_3\Gruzd_3\obj\Debug\net10.0\ref\Gruzd_3.dll
