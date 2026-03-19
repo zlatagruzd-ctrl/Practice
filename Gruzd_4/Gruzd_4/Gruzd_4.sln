@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gruzd_4", "Gruzd_4\Gruzd_4.csproj", "{070C83A8-D352-47FB-9118-7B2003B020FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070C83A8-D352-47FB-9118-7B2003B020FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070C83A8-D352-47FB-9118-7B2003B020FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070C83A8-D352-47FB-9118-7B2003B020FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070C83A8-D352-47FB-9118-7B2003B020FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
